@@ -1,0 +1,14 @@
+
+.newlist :hover{
+    background-color: #FF9D5C;
+ }
+
+.item{
+    display: flex;
+    align-items: center;
+     gap:20px 
+}
+
+
+
+

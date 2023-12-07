@@ -1,0 +1,62 @@
+.contactimg {
+  height: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.leftcontact {
+  height: auto;
+  border-radius: 15px;
+  width: 80%;
+  background: linear-gradient(to left, #3333cc 0%, #00ffff 100%);
+  justify-content: center;
+  align-items: center;
+ margin-left: 8%;
+ margin-right: 2%;
+ margin-bottom: 5%;
+padding-top: 5%;}
+.button {
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: white;
+    border: 2px solid white;
+    text-decoration: none;
+  }
+  
+   .button:hover {
+    background: #3333cc;
+    color: #fff;
+  }
+  .mailbox :hover{
+    height:80px;
+    width:50%;
+    background:rgb(249, 251, 251);
+    box-shadow:0px 0px 8px 1px #D6E4E5
+  }
+  .marquee{
+    font-size: 1.5rem;
+    background: linear-gradient(to left, #ff9933 0%, #ffffcc 100%);
+    font-weight: 700;
+    color:  black
+  }
+  .rightpart{
+    text-align: start;
+  }
+  .phone{
+    margin-top: 5%;
+  }
+
+ @media screen and (max-width: 768px)  {
+    .rightpart{
+        padding-left: 7%;
+      }
+    .phone{
+        margin-top: 0%;
+    }
+ } 
+

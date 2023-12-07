@@ -1,0 +1,52 @@
+.footer {
+  height: auto;
+  width: 100%;
+  background-color: #94B49F;
+  padding: 2% 5% 2% 5%;
+}
+.home {
+  cursor: pointer;
+  font-size: medium;
+}
+.home:hover {
+  color: #ff9d5c;
+  font-size: medium;
+  font-weight: 700;
+}
+
+.aboutus {
+  cursor: pointer;
+  font-size: medium;
+}
+.aboutus:hover {
+  color: #ff9d5c;
+  font-size: medium;
+  font-weight: 700;
+}
+.contactus {
+  cursor: pointer;
+  font-size: medium;
+}
+.contactus:hover {
+  color: #ff9d5c;
+  font-size: medium;
+  font-weight: 700;
+}
+.product {
+  cursor: pointer;
+  font-size: medium;
+}
+.product:hover {
+  color: #ff9d5c;
+  font-size: medium;
+  font-weight: 700;
+}
+.service {
+    cursor: pointer;
+    font-size: medium;
+  }
+.service:hover {
+    color: #ff9d5c;
+    font-size: medium;
+    font-weight: 700;
+  }
