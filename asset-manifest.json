@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Citrine/static/css/main.4a0909c7.css",
+    "main.js": "/Citrine/static/js/main.ec6eba50.js",
+    "static/js/787.5796a4e2.chunk.js": "/Citrine/static/js/787.5796a4e2.chunk.js",
+    "static/media/megazine.jpg": "/Citrine/static/media/megazine.4fd0aa6ea95aab34911c.jpg",
+    "static/media/gift.jpg": "/Citrine/static/media/gift.3ed124d276b3ce9d67f4.jpg",
+    "static/media/brochure.jpg": "/Citrine/static/media/brochure.e91ffa82e1de74750ed7.jpg",
+    "static/media/catalog.jpg": "/Citrine/static/media/catalog.2005d429eee4faded903.jpg",
+    "static/media/books.jpeg": "/Citrine/static/media/books.c5d77ea275d588810ffa.jpeg",
+    "static/media/poster.webp": "/Citrine/static/media/poster.e7b5389034308c0300ca.webp",
+    "static/media/homeimg.jpeg": "/Citrine/static/media/homeimg.de83aa62bbe81b97f677.jpeg",
+    "static/media/visualaids.jpeg": "/Citrine/static/media/visualaids.fa73d18482df489f5c90.jpeg",
+    "static/media/cards.webp": "/Citrine/static/media/cards.b0853ce54b8168967a53.webp",
+    "static/media/ideas.jpg": "/Citrine/static/media/ideas.daf3a91b8479a90df5e2.jpg",
+    "static/media/Graphic-designing.jpg": "/Citrine/static/media/Graphic-designing.a6d470164c04694f226d.jpg",
+    "static/media/tabletop.jpg": "/Citrine/static/media/tabletop.b2af4da280f9360a54c7.jpg",
+    "static/media/calender.webp": "/Citrine/static/media/calender.4b23861cebef676bae06.webp",
+    "static/media/quality.jpg": "/Citrine/static/media/quality.81a56498796909e4c1fd.jpg",
+    "static/media/about.jpg": "/Citrine/static/media/about.1a4875902d1884489432.jpg",
+    "static/media/art.avif": "/Citrine/static/media/art.6fe9939504c59736eeb3.avif",
+    "static/media/stationary.jpg": "/Citrine/static/media/stationary.3d2134f116af3bb49b1d.jpg",
+    "static/media/contect.jpg": "/Citrine/static/media/contect.4f52692a5125009e0163.jpg",
+    "static/media/printpack.jpeg": "/Citrine/static/media/printpack.ee59a773d91802eb7666.jpeg",
+    "static/media/printing.webp": "/Citrine/static/media/printing.510cb2488e01f65db557.webp",
+    "static/media/logo.svg": "/Citrine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Citrine/index.html",
+    "main.4a0909c7.css.map": "/Citrine/static/css/main.4a0909c7.css.map",
+    "main.ec6eba50.js.map": "/Citrine/static/js/main.ec6eba50.js.map",
+    "787.5796a4e2.chunk.js.map": "/Citrine/static/js/787.5796a4e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0909c7.css",
+    "static/js/main.ec6eba50.js"
+  ]
+}
