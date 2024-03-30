@@ -14,13 +14,13 @@ import { ScrollToTop } from "react-simple-scroll-up";
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 
 function App() {
-  
+
   return (
     <>
       <div className="App">
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Citrine/" element={<Home />} />
           <Route path="/service" element={<Service />} />
           <Route path="/aboutus" element={<About />} />
           <Route path="/product" element={<Products />} />
